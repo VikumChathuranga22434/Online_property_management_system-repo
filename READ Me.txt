@@ -1,0 +1,11 @@
+Sahanooo me
+1.mulinm uba oke thyennw sql scripts kyala folser ekkek eke thyenne sql deka ube workbench eke import kela urn krhn
+2.ita passe uba mee folder ube eclipse eke workstation eket copy krgnin
+3.passe oke src/main/webapp/META-INF/context.xml kyala file ekkak have eke opne krhn
+4.eke thyennw bn 8 weni line eke url kyala ekkak
+5.anne e url eke ube loacl host eke port address eke deepn
+ ex:- url="jdbc:mysql://localhost:3308/web_student_tracker?useSSL=false&amp;serverTimezone=UTC"/>
+	 to
+	url="jdbc:mysql://localhost:3306/web_student_tracker?useSSL=false&amp;serverTimezone=UTC"/>
+wgee maru krhn ethkot wda karai.
+6.nththn uba meke mhemma submit krhn meke wda mchn mm test krla thyenne
